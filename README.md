@@ -5,7 +5,7 @@
 * 🌱  Love to work on new languages and platforms
 * 😄  Love programming and reverse engineering
 * 📫  Know more about me: <a href="https://vishal-connect.web.app/">Vishal Benake</a>
-* ⚡  Introvert who sometimes go into deep thoughts about life and things
+<!-- * ⚡  Introvert who sometimes go into deep thoughts about life and things -->
 
 ## 🌐 Socials
 ![](https://komarev.com/ghpvc/?username=vishal-benake&color=brightgreen&style=flat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-benake) [![Instagram](https://img.shields.io/badge/Instagram-%23BB0000.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vishaal_87) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@code-with-vishal) [![GitHub vishal-benake](https://img.shields.io/github/followers/vishal-benake?label=follow&style=social)](https://github.com/vishal-benake)
