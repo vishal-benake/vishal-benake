@@ -1,8 +1,9 @@
 ### <center>Hello, I'm Vishal Benake 👋</center>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BCD4&width=435&lines=Hi%2C+I'm+Vishal+Benake!;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BCD4&width=700&lines=Hi%2C+I'm+Vishal+Benake!;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 </p>
+
 
 ## 💫 About Me
 * 🔭  EXTC Graduate
