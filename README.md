@@ -43,8 +43,3 @@
 - Deployed ML models with Flask  
 
 </details>
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-benake&theme=slateorange)
