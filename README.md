@@ -9,7 +9,7 @@
 * 🔭  EXTC Graduate
 * 🌱  Love to work on new languages and platforms
 * 😄  Love programming <!--and reverse engineering-->
-* 📫  Know more about me: <a href="https://vishal-connect.web.app/">Vishal Benake</a>
+* 📫  Know more about me: <a href="#">Vishal Benake</a>
 <!-- * ⚡  Introvert who sometimes go into deep thoughts about life and things -->
 
 ## 🌐 Socials
